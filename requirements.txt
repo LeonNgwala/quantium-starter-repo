@@ -1,2 +1,8 @@
 dash==2.14.2
 pandas==2.1.4
+dash==2.14.2
+pandas==2.1.4
+pytest
+selenium
+webdriver-manager
+plotly
